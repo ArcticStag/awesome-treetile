@@ -13,7 +13,7 @@ is longer. If you want, you can also manually resize these two descendants with
 respect to each other by the keyboard or mouse, but only in the frame of screen area occupied by the
 progenitor (which can be improved in the future).
 
-This project is forked from (https://github.com/RobSis/treesome) and still under the development.
+This project is forked from (https://github.com/pedrogameiro/awesome-treetile) and still under the development.
 Comments and feedbacks are welcome.
 
 Installation
@@ -22,7 +22,7 @@ Installation
 1. Clone repository to your awesome directory
 
     ```
-    git clone http://github.com/ItsJimi/treetile.git ~/.config/awesome/treetile
+    git clone https://github.com/ArcticStag/awesome-treetile.git ~/.config/awesome/treetile
     ```
 
 2. Add this line to your rc.lua below other require calls.
@@ -115,4 +115,4 @@ TODO
 Licence
 -------
 
-[GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.html)
+[MIT](https://mit-license.org/)
